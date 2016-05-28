@@ -1,7 +1,7 @@
 # Morphological-Classifiers
 
-<b>Algorithm Parameters and Predictive Models</b>:
+<b>Algorithm Parameters and Predictive Models</b>: <br>
 http://japaneseway.freetzi.com/apendice.pdf
 
 
-Source code comming soon
+<b>Source code</b> comming soon
