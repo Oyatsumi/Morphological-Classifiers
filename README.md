@@ -9,3 +9,5 @@ http://www.mediafire.com/download/kqlbp88kvpmwiei/Appendix.rar
 
 
 <b>Source code</b> comming soon
+
+Érick Oliveira Rodrigues
