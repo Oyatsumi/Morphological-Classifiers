@@ -8,6 +8,6 @@ To download all the generated predictive models and datasets:
 http://www.mediafire.com/download/kqlbp88kvpmwiei/Appendix.rar
 
 
-<b>Source code</b> comming soon
+<b>Source code</b> comming as soon as the manuscript gets published
 
 Érick Oliveira Rodrigues
